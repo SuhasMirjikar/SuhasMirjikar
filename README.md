@@ -1,81 +1,75 @@
 <div align="center">
 
-# Hi there, I'm Suhas Mirjikar 👋
+# Hi there 👋, I'm Suhas Mirjikar
 
 ### Backend Engineer • Cloud Enthusiast • AI Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Microservices;AWS+Cloud+%7C+Terraform;Building+Scalable+Backend+Systems;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Backend+Developer;Spring+Boot+%7C+Java;AWS+Cloud+Engineer;Terraform+%7C+Microservices;Building+Scalable+Applications;Always+Learning+Something+New" />
 
 <br>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/suhas-mirjikar-242996250/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:suhasmirjikar86@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 ```java
 public class Suhas {
 
     String role = "Backend Developer";
 
-    String[] interests = {
-        "Spring Boot",
-        "Microservices",
+    String[] passions = {
+        "Backend Development",
         "Cloud Computing",
-        "Distributed Systems",
-        "Artificial Intelligence"
+        "Microservices",
+        "Artificial Intelligence",
+        "Distributed Systems"
     };
 
     String[] currentlyLearning = {
+        "System Design",
         "Kubernetes",
         "Kafka",
-        "System Design",
         "Advanced AWS"
     };
 
-    String funFact = "I enjoy building scalable systems that solve real-world problems.";
+    String motto = "Build scalable software that solves real-world problems.";
 
 }
 ```
 
 ---
 
-# 🚀 Current Focus
+# 🚀 What I'm Working On
 
-- 🌱 Building scalable Spring Boot Microservices
-- ☁️ Learning AWS Cloud Architecture
-- 🏗 Exploring Infrastructure as Code using Terraform
-- 🤖 Building AI-powered applications with Amazon Bedrock
-- 📚 Improving System Design & Distributed Systems knowledge
+- 🍽 Building a cloud-native Food Donation Platform using Spring Boot Microservices.
+- 🤖 Developing AI-powered applications with Amazon Bedrock.
+- ☁️ Learning advanced AWS cloud architecture.
+- 🏗 Exploring Infrastructure as Code with Terraform.
+- 📚 Improving System Design and Distributed Systems knowledge.
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,bash,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,mysql,bash"/>
 </p>
 
-## Backend
+---
+
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs"/>
@@ -89,28 +83,28 @@ public class Suhas {
 
 ---
 
-## Cloud
+### Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker"/>
 </p>
 
-Experienced with:
+AWS Services:
 
-- AWS Lambda
+- Lambda
 - API Gateway
-- S3
 - ECS
+- S3
 - RDS
-- IAM
 - Cognito
+- IAM
 - OpenSearch
 - Bedrock
 - CloudWatch
 
 ---
 
-## Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,redis"/>
@@ -122,10 +116,10 @@ Experienced with:
 
 ---
 
-## Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,maven"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode,postman,maven"/>
 </p>
 
 ---
@@ -134,14 +128,13 @@ Experienced with:
 
 ## Software Engineering Intern
 
-Worked on cloud-native applications involving
+Worked on cloud-native backend applications involving:
 
 - Backend API Development
 - AI Chatbot using Amazon Bedrock
+- Retrieval-Augmented Generation (RAG)
+- AWS Lambda & API Gateway
 - Terraform Infrastructure
-- AWS Lambda
-- API Gateway
-- Knowledge Base & RAG
 - Cloud Deployments
 - Internal Developer Portal
 
@@ -149,126 +142,81 @@ Worked on cloud-native applications involving
 
 # ⭐ Featured Projects
 
-## 🍽 Food Donation Platform
+## 🍽 Food Donation Platform *(In Progress)*
 
-A cloud-native food donation platform connecting restaurants, NGOs and volunteers.
+A scalable platform connecting restaurants, NGOs, and volunteers to reduce food waste.
 
-### Tech
+**Tech Stack**
 
 - Spring Boot
 - Microservices
-- JWT
+- JWT Authentication
 - Redis
-- Kafka
-- Terraform
 - AWS
+- Terraform
 - Docker
 
 ---
 
 ## 🤖 AI Developer Assistant
 
-An intelligent chatbot for developers powered by Amazon Bedrock.
+An intelligent developer chatbot powered by Amazon Bedrock and Retrieval-Augmented Generation.
 
-### Features
+**Highlights**
 
-- RAG Architecture
-- OpenSearch
 - Amazon Bedrock
+- OpenSearch
 - Knowledge Base
 - Lambda
 - API Gateway
 - Terraform
+- React
 
 ---
 
-## 📦 Inventory & Sales Management
+## 📦 Inventory & Sales Management Platform
 
-Cloud-based B2B platform for warehouse and inventory management.
+Cloud-based B2B platform for inventory and warehouse management.
+
+**Tech Stack**
 
 - Spring Boot
+- REST APIs
 - MySQL
 - Redis
-- REST APIs
 - AWS
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
-
-</div>
 
 ---
 
 # 📚 Currently Exploring
 
-- Event Driven Architecture
+- Event-Driven Architecture
 - Kubernetes
 - Kafka
-- AWS ECS
+- Domain-Driven Design
 - CI/CD
-- Design Patterns
-- Domain Driven Design
 - High-Level System Design
 
 ---
 
 # 🤝 Let's Connect
 
-If you're interested in discussing
+I'm always happy to connect with people interested in:
 
-- Backend Development
-- Cloud
+- Backend Engineering
+- Cloud Computing
 - AWS
 - AI
 - Open Source
-- Spring Boot
-
-feel free to connect!
+- System Design
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/suhas-mirjikar-242996250/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:suhasmirjikar86@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -280,12 +228,10 @@ feel free to connect!
 
 ### 💭 Favorite Quote
 
-> "First, solve the problem. Then, write the code."
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
----
+<br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
-
-⭐ Thanks for visiting my profile!
+⭐ Thanks for stopping by!
 
 </div>
