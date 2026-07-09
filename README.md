@@ -239,7 +239,6 @@ I'm always open to connecting with fellow developers, students, and professional
 <div align="center">
 
 
----
 
 ⭐ **Thanks for visiting my profile!**
 
