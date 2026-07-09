@@ -2,13 +2,17 @@
 
 # Hi there 👋, I'm Suhas Mirjikar
 
-### Backend Engineer • Cloud Enthusiast • AI Developer
+### Software Engineer | Backend Developer | Cloud Enthusiast
+
+<p>
+Building scalable backend systems with Java, Spring Boot, AWS, and Terraform.
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Backend+Developer;Spring+Boot+%7C+Java;AWS+Cloud+Engineer;Terraform+%7C+Microservices;Building+Scalable+Applications;Always+Learning+Something+New" />
 
 <br>
 
-<a href="https://www.linkedin.com/in/suhas-mirjikar-242996250/">
+<a href="https://www.linkedin.com/in/suhas-mirjikar-242996250/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -22,40 +26,45 @@
 
 # 👨‍💻 About Me
 
-```java
-public class Suhas {
+I'm a Computer Science graduate passionate about building scalable backend systems and cloud-native applications.
 
-    String role = "Backend Developer";
-
-    String[] passions = {
-        "Backend Development",
-        "Cloud Computing",
-        "Microservices",
-        "Artificial Intelligence",
-        "Distributed Systems"
-    };
-
-    String[] currentlyLearning = {
-        "System Design",
-        "Kubernetes",
-        "Kafka",
-        "Advanced AWS"
-    };
-
-    String motto = "Build scalable software that solves real-world problems.";
-
-}
-```
+- 🎓 Bachelor of Engineering in Computer Science & Engineering
+- 🏫 **PES University, Bengaluru (2022 – 2026)**
+- 💻 Interested in Backend Development, Cloud Computing, Artificial Intelligence, and Distributed Systems
+- ☁️ Passionate about building scalable applications using Java, Spring Boot, AWS, and Terraform
+- 📚 Currently learning Kubernetes, Kafka, System Design, and Advanced AWS
+- 🚀 I enjoy building projects that solve real-world problems and continuously exploring new technologies.
 
 ---
 
-# 🚀 What I'm Working On
+# 🚀 What I'm Currently Working On
 
-- 🍽 Building a cloud-native Food Donation Platform using Spring Boot Microservices.
+- 🍽 Building a **Food Donation Platform** using Spring Boot Microservices.
+- ☁️ Learning advanced AWS cloud services and architecture.
 - 🤖 Developing AI-powered applications with Amazon Bedrock.
-- ☁️ Learning advanced AWS cloud architecture.
-- 🏗 Exploring Infrastructure as Code with Terraform.
-- 📚 Improving System Design and Distributed Systems knowledge.
+- 🏗 Exploring Infrastructure as Code using Terraform.
+- 📖 Improving my understanding of Distributed Systems and System Design.
+
+---
+
+# 🎓 Education
+
+### PES University, Bengaluru
+
+**Bachelor of Engineering (B.E.)**
+
+Computer Science & Engineering
+
+**2022 – 2026**
+
+**Relevant Coursework**
+
+- Data Structures & Algorithms
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- Object-Oriented Programming
 
 ---
 
@@ -89,15 +98,15 @@ public class Suhas {
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker"/>
 </p>
 
-AWS Services:
+**AWS Services**
 
 - Lambda
 - API Gateway
 - ECS
 - S3
 - RDS
-- Cognito
 - IAM
+- Cognito
 - OpenSearch
 - Bedrock
 - CloudWatch
@@ -131,12 +140,14 @@ AWS Services:
 Worked on cloud-native backend applications involving:
 
 - Backend API Development
-- AI Chatbot using Amazon Bedrock
+- Amazon Bedrock AI Applications
 - Retrieval-Augmented Generation (RAG)
-- AWS Lambda & API Gateway
+- AWS Lambda
+- API Gateway
 - Terraform Infrastructure
-- Cloud Deployments
+- REST API Development
 - Internal Developer Portal
+- Cloud Deployments
 
 ---
 
@@ -144,7 +155,7 @@ Worked on cloud-native backend applications involving:
 
 ## 🍽 Food Donation Platform *(In Progress)*
 
-A scalable platform connecting restaurants, NGOs, and volunteers to reduce food waste.
+A cloud-native food donation platform connecting restaurants, NGOs, and volunteers to reduce food waste.
 
 **Tech Stack**
 
@@ -160,7 +171,7 @@ A scalable platform connecting restaurants, NGOs, and volunteers to reduce food 
 
 ## 🤖 AI Developer Assistant
 
-An intelligent developer chatbot powered by Amazon Bedrock and Retrieval-Augmented Generation.
+An intelligent developer chatbot powered by Amazon Bedrock and Retrieval-Augmented Generation (RAG).
 
 **Highlights**
 
@@ -176,7 +187,7 @@ An intelligent developer chatbot powered by Amazon Bedrock and Retrieval-Augment
 
 ## 📦 Inventory & Sales Management Platform
 
-Cloud-based B2B platform for inventory and warehouse management.
+A cloud-based B2B platform for inventory and warehouse management.
 
 **Tech Stack**
 
@@ -190,29 +201,30 @@ Cloud-based B2B platform for inventory and warehouse management.
 
 # 📚 Currently Exploring
 
-- Event-Driven Architecture
 - Kubernetes
 - Kafka
+- Event-Driven Architecture
 - Domain-Driven Design
 - CI/CD
 - High-Level System Design
+- Cloud-Native Application Development
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always happy to connect with people interested in:
+I'm always open to connecting with fellow developers, students, and professionals interested in:
 
-- Backend Engineering
+- Backend Development
 - Cloud Computing
 - AWS
-- AI
+- Artificial Intelligence
 - Open Source
-- System Design
+- Software Engineering
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/suhas-mirjikar-242996250/">
+<a href="https://www.linkedin.com/in/suhas-mirjikar-242996250/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -230,8 +242,10 @@ I'm always happy to connect with people interested in:
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-<br>
+---
 
-⭐ Thanks for stopping by!
+⭐ **Thanks for visiting my profile!**
+
+If you like my work or want to collaborate on backend, cloud, or AI projects, feel free to connect.
 
 </div>
