@@ -238,9 +238,6 @@ I'm always open to connecting with fellow developers, students, and professional
 
 <div align="center">
 
-### 💭 Favorite Quote
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
 
 ---
 
